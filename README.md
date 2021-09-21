@@ -1,0 +1,7 @@
+- Nama program : Introduction to Python for Data Science
+- Batch : 1
+- Nama Peserta : Amin Fahri
+- Asal Universitas : Universitas Adhirajasa Reswara Sanjaya
+- Kelas : PYTN-KS-001
+- Kode Peserta : PYTN-KS01-002
+- Nomor Peserta : 002
